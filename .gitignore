@@ -1,0 +1,45 @@
+# Java and Maven
+
+target/
+
+*.class
+
+*.jar
+
+*.war
+
+*.iml
+
+
+
+# STS/Eclipse
+
+.settings/
+
+.project
+
+.classpath
+
+.metadata/
+
+
+
+# OS
+
+.DS_Store
+
+Thumbs.db
+
+
+
+# Logs
+
+*.log
+
+
+
+# IDE
+
+.idea/
+
+.vscode/
